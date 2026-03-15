@@ -3,7 +3,7 @@
 "codigo":"NDT-E-C-001-2026",
 "nome":"Kayuan Cunha Silva",
 "curso":"AutoCAD – Desenho Técnico Assistido por Computador",
-"carga_horária":"60h",
+"carga":"60h",
 "data_conclusao":"30/03/2026",
 "responsavel":"Talys Heitor Soares Silva – Técnico em Desenho"
 },
@@ -12,7 +12,7 @@
 "codigo":"NDT-E-C-002-2026",
 "nome":"Arthur Carrion",
 "curso":"AutoCAD – Desenho Técnico Assistido por Computador",
-"carga_horária":"60h",
+"carga":"60h",
 "data_conclusao":"30/03/2026",
 "responsavel":"Talys Heitor Soares Silva – Técnico em Desenho"
 },
@@ -21,7 +21,7 @@
 "codigo":"NDT-E-C-003-2026",
 "nome":"João Rodrigues",
 "curso":"AutoCAD – Desenho Técnico Assistido por Computador",
-"carga_horária":"60h",
+"carga":"60h",
 "data_conclusao":"30/03/2026",
 "responsavel":"Talys Heitor Soares Silva – Técnico em Desenho"
 }
